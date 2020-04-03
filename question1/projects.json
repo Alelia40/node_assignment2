@@ -1,0 +1,16 @@
+{
+    "projects" : [
+        {
+            "id":1,
+            "name": "mcDonalds Payroll"
+        },
+        {
+            "id":2,
+            "name": "Starbucks Website"
+        },
+        {
+            "id":3,
+            "name": "Kodak Marketing"
+        }
+    ]
+}
